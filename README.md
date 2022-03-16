@@ -1,1 +1,1 @@
-# vpn-supreme
+# vpn-supreme sample only
