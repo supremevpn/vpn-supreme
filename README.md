@@ -1,1 +1,1 @@
-# vpn-supreme sample only
+# vpn-supreme sample only config update here
